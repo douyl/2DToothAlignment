@@ -1,7 +1,7 @@
 # 3D Structure-guided Network for Tooth Alignment in 2D Photograph (BMVC 2023)
 
 This repository includes our code for the paper ***'3D Structure-guided Network for Tooth Alignment in 2D Photograph'*** in BMVC 2023. 
-### [Paper](https://arxiv.org/abs/2310.11106) | [Code](https://github.com/douyl/2DToothAlignment/tree/master)
+### [Webpage](https://proceedings.bmvc2023.org/322/) | [Paper](https://arxiv.org/abs/2310.11106) | [Code](https://github.com/douyl/2DToothAlignment/tree/master)
 
 ## Method overview
 <img src="./Code/config/Method%20overview.png"  width="500" />
@@ -39,12 +39,12 @@ Simply use the following command to run our code. You will see the results in [O
 
 If our code or models help your work, please cite our [paper](https://arxiv.org/abs/2310.11106):
 ```BibTeX
-@misc{dou20233d,
-      title={3D Structure-guided Network for Tooth Alignment in 2D Photograph}, 
-      author={Yulong Dou and Lanzhuju Mei and Dinggang Shen and Zhiming Cui},
-      year={2023},
-      eprint={2310.11106},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{Dou_2023_BMVC,
+author    = {Yulong Dou and Lanzhuju Mei and Dinggang Shen and Zhiming Cui},
+title     = {3D Structure-guided Network for Tooth Alignment in 2D Photograph},
+booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+publisher = {BMVA},
+year      = {2023},
+url       = {https://papers.bmvc2023.org/0322.pdf}
 }
 ```
